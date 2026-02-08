@@ -1,5 +1,6 @@
 ## Mihomo Party 主题
 
+主题名称: 夏日晴空
 
 深色:
 <img width="1521" height="1119" alt="29f6429c07acbc11" src="https://github.com/user-attachments/assets/7e852707-c155-44cb-b87a-c4438f3b9ecd" />
